@@ -23,6 +23,7 @@ body{
 
 .container{
     height: 100vh;
+    display: grid;
 }
 
 .container__botao {
@@ -33,6 +34,3 @@ body{
     display: block
 }
 
-.principal{
-    color: var(--branco-principal)
-}
