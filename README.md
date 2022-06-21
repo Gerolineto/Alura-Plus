@@ -18,4 +18,4 @@ Reproduzir a interface da página comercial da **Alura+** reforçando e implemen
 
 
 
-### deploy: https://gerolineto.github.io/Alura-Plus/
+### Deploy: https://gerolineto.github.io/Alura-Plus/
