@@ -1,4 +1,4 @@
-# 📘:Recriando a Interface do Netflix   
+# 📘:Projeto final do curso de CSS Alura  
 
 
 
